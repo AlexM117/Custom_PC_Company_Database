@@ -1,0 +1,11 @@
+C:\Users\alex\source\repos\Marlow_Alex_db_ConsoleUI\Marlow_Alex_db_ConsoleUI\bin\Debug\Marlow_Alex_db_ConsoleUI.exe.config
+C:\Users\alex\source\repos\Marlow_Alex_db_ConsoleUI\Marlow_Alex_db_ConsoleUI\bin\Debug\Marlow_Alex_db_ConsoleUI.exe
+C:\Users\alex\source\repos\Marlow_Alex_db_ConsoleUI\Marlow_Alex_db_ConsoleUI\bin\Debug\Marlow_Alex_db_ConsoleUI.pdb
+C:\Users\alex\source\repos\Marlow_Alex_db_ConsoleUI\Marlow_Alex_db_ConsoleUI\obj\Debug\Marlow_Alex_db_ConsoleUI.csprojAssemblyReference.cache
+C:\Users\alex\source\repos\Marlow_Alex_db_ConsoleUI\Marlow_Alex_db_ConsoleUI\obj\Debug\Marlow_Alex_db_ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\alex\source\repos\Marlow_Alex_db_ConsoleUI\Marlow_Alex_db_ConsoleUI\obj\Debug\Marlow_Alex_db_ConsoleUI.exe
+C:\Users\alex\source\repos\Marlow_Alex_db_ConsoleUI\Marlow_Alex_db_ConsoleUI\obj\Debug\Marlow_Alex_db_ConsoleUI.pdb
+C:\Users\alex\source\repos\Marlow_Alex_db_ConsoleUI\Marlow_Alex_db_ConsoleUI\bin\Debug\Marlow_Alex_db_ConsoleUI.exe.manifest
+C:\Users\alex\source\repos\Marlow_Alex_db_ConsoleUI\Marlow_Alex_db_ConsoleUI\bin\Debug\Marlow_Alex_db_ConsoleUI.application
+C:\Users\alex\source\repos\Marlow_Alex_db_ConsoleUI\Marlow_Alex_db_ConsoleUI\obj\Debug\Marlow_Alex_db_ConsoleUI.exe.manifest
+C:\Users\alex\source\repos\Marlow_Alex_db_ConsoleUI\Marlow_Alex_db_ConsoleUI\obj\Debug\Marlow_Alex_db_ConsoleUI.application
