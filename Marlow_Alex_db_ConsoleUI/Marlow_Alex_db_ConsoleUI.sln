@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marlow_Alex_db_ConsoleUI", "Marlow_Alex_db_ConsoleUI\Marlow_Alex_db_ConsoleUI.csproj", "{798D6416-2D92-4909-999A-03C6BCEFF3EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{798D6416-2D92-4909-999A-03C6BCEFF3EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{798D6416-2D92-4909-999A-03C6BCEFF3EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{798D6416-2D92-4909-999A-03C6BCEFF3EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{798D6416-2D92-4909-999A-03C6BCEFF3EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {355A486A-99AA-4D58-B780-CD45E1CA0AF9}
+	EndGlobalSection
+EndGlobal
